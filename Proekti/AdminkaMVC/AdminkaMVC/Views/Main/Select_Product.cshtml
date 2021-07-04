@@ -1,0 +1,33 @@
+﻿@model IEnumerable<AdminkaMVC.Models.Tovar>
+<h2>Список продуктов в для интернет-заказов</h2>
+    Пока ты спишь, остальные делают
+<div>
+    <table>
+        <tr>
+            <th> Номер товара</th>
+            <th> Фото</th>
+            <th> Название  </th>
+            <th> Описание </th>
+            <th> Компания</th>
+            <th> Цена </th>
+            <th> Количество </th>
+            <th> Заказ  </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+    <tr>
+        <td> @item.ItemCode </td>
+        <td> <img src="~/Images/@item.Image" width="70" height="70"> </td>
+        <td> @item.Name  </td>
+        <td> @item.Description </td>
+        <td> @item.Company </td>
+        <td> @item.Balance </td>
+        <td> @item.Price </td>
+        <td><a class="order-button" href="@Url.Action("Create_Order", "Main" , new {ID=item.ItemCode})">Заказать</a></td>
+        <td><a class="order-button" href="@Url.Action("Edit", "Main", new {id = item.ItemCode})">Изменить</a></td>
+        <td><a class="order-button" href="@Url.Action("Delete", "Main", new {id = item.ItemCode})">Удалить</a></td>
+
+    </tr>
+        }
+    </table>
+</div>

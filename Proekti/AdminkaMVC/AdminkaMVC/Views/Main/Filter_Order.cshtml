@@ -1,0 +1,46 @@
+﻿@model IEnumerable<AdminkaMVC.Models.Order>
+<h2>Фильтрация заказов от Самойловой</h2>
+@* Добавила строки для фильтрации Самойлова *@
+@using (Html.BeginForm("Filter_Order", "Main", FormMethod.Get))
+{
+    <p>
+        Продукт: @Html.DropDownList("Name_Product", "Все")
+        <input type="submit" value="Фильтровать" />
+    </p>    }
+<table class="table">
+    <tr>
+        <th>
+            Код товара
+        </th>
+        <th>
+            Заказано
+        </th>
+        <th>
+            Адрес
+        </th>
+        <th>
+            Дата заказа
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.ItemCode)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Quantity)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Address)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Order_date)
+    </td>
+    <td><a class="order-button" href="@Url.Action("Edit_Order", "Main", new {id = item.OrderCode})">Изменить</a></td>
+    <td><a class="order-button" href="@Url.Action("Delete_Order", "Main", new {id = item.OrderCode})">Удалить</a></td>
+
+</tr>
+    }
+</table>
