@@ -52,9 +52,17 @@ namespace AdminkaMVC.Controllers
                 };
                 db.TableOrder.Add(order);
                 db.SaveChanges();
+                //Реализация минуса
+                Tovar prod = db.TableTovar.Find(ord.ItemCode); // выбранный продукт             
+                prod.Balance = prod.Balance - ord.Quantity;
+                db.Entry(prod).State = EntityState.Modified;
+                db.SaveChanges();
+                //Конец  реализации минуса
+
                 return RedirectToAction("Select_Product");
             }
             return View(ord);
+
         }
         //Редактирование и  удаление
         public ActionResult Edit(int id)
@@ -89,6 +97,25 @@ namespace AdminkaMVC.Controllers
                 return RedirectToAction("Select_Product");
             }
             return View();
+        }
+        public ActionResult Minus(Tovar p, int Count)
+        {
+            if (ModelState.IsValid)
+            {
+                Tovar product = new Tovar
+                {
+                    ItemCode = p.ItemCode,
+                    Company = p.Company,
+                    Name = p.Name,
+                    Description = p.Description,
+                    Price = p.Price,
+                    Balance = p.Balance - Count,
+                    Image = p.Image,
+                };
+                db.Entry(product).State = EntityState.Modified;
+                db.SaveChanges();
+            }
+            return View();  
         }
         public ActionResult Delete(int id)
         {
@@ -145,8 +172,6 @@ namespace AdminkaMVC.Controllers
             ViewBag.email = ord.Email;
             ViewBag.status = ord.Status;
             ViewBag.date = ord.Order_date;
-
-
             return View();
         }
         [HttpPost]
