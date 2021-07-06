@@ -134,8 +134,8 @@ namespace AdminkaMVC.Controllers
         {//Формируем список наименований продуктов
             var NameLst = new List<string>();
             var query_name = from d in db.TableOrder
-                             orderby d.FirstName
-                             select d.FirstName;
+                             orderby d.Order_date
+                             select d.Order_date;
             NameLst.AddRange(query_name.Distinct());
             ViewBag.Name_Product = new SelectList(NameLst);
             // Формируем полный список заказов
@@ -145,9 +145,25 @@ namespace AdminkaMVC.Controllers
                 return View(query_order);
             else //При выборе клиента выводим только заказы на указанный продукт
             {
-                return View(query_order.Where(x => x.FirstName == Name_Product));
+                return View(query_order.Where(x => x.Order_date == Name_Product));
             }
         }
+        public ActionResult Filter_Order_Quantity(int Name_Product)
+        //Name - при первом запуске пуст, при выборе клиента - имя выбранного продукта 
+        {//Формируем список наименований продуктов
+            var NameLst = new List<int>();
+            var query_name = from d in db.TableTovar
+                             orderby d.Balance
+                             select d.Balance;
+            NameLst.AddRange(query_name.Distinct());
+            ViewBag.Name_Product = new SelectList(NameLst);
+            // Формируем полный список заказов
+            var query_order = from m in db.TableTovar select m;
+            // При первом пуске выводим все заказы
+                return View(query_order);
+
+        }
+
         //ниже код для редактирования товара
         //удаление заказа
         public ActionResult Delete_Order(int id)

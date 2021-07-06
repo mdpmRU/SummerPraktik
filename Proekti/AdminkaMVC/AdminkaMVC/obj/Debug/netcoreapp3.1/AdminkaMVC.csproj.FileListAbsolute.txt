@@ -80,3 +80,4 @@ D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Ma
 D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Main\Edit.cshtml.g.cs
 D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Main\Filter_Order.cshtml.g.cs
 D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Main\Edit_Order.cshtml.g.cs
+D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Main\Filter_Order_Quantity.cshtml.g.cs
