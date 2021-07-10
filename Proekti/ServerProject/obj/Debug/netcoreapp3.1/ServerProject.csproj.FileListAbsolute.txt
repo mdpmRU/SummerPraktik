@@ -1,0 +1,140 @@
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.exe
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.deps.json
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.runtimeconfig.json
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.runtimeconfig.dev.json
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.pdb
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.AssemblyInfo.cs
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerProject.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerProject.StaticWebAssets.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\ServerProject.styles.css
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.pdb
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.genruntimeconfig.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.csproj.CopyComplete
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.exe
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.deps.json
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.runtimeconfig.json
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.runtimeconfig.dev.json
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\ServerProject.pdb
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2Praktik\Proekti\ServerProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.csprojAssemblyReference.cache
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.AssemblyInfoInputs.cache
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.AssemblyInfo.cs
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.csproj.CoreCompileInputs.cache
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.MvcApplicationPartsAssemblyInfo.cache
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerProject.StaticWebAssets.Manifest.cache
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerProject.StaticWebAssets.xml
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\ServerProject.styles.css
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.RazorTargetAssemblyInfo.cache
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.csproj.CopyComplete
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.dll
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.pdb
+D:\2Praktik\Proekti\ServerProject\obj\Debug\netcoreapp3.1\ServerProject.genruntimeconfig.cache
