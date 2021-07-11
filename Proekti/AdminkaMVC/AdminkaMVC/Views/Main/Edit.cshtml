@@ -1,44 +1,51 @@
 ﻿@model AdminkaMVC.Models.Tovar
 <h2>Вы выбрали для изменения   @ViewBag.choice</h2>
-<form asp-action="Edit">
-    <fieldset>
-        <legend> Измените любые поля: </legend>
+@if (ViewBag.isAdmin == "admin")
+{
+    <form asp-action="Edit">
+        <fieldset>
+            <legend> Измените любые поля: </legend>
 
-        <div class="editor-label">
-            Название продукта
-        </div>
-        <div class="label">
-            <input asp-for="ItemCode" class="form-control" value="@ViewBag.id" readonly="@(true)" />
-        </div>
-        <div class="editor-field">
-            <input asp-for="Company" class="form-control" value="@ViewBag.comp" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Name" class="form-control" value="@ViewBag.choice" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Description" class="form-control" value="@ViewBag.desc" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Price" class="form-control" value="@ViewBag.pr" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Balance" class="form-control" value="@ViewBag.bal" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Image" class="form-control" value="@ViewBag.img" />
-        </div>
-        <br />
-        <p>
-            <input type="submit" value="Изменить и сохранить" />
-        </p>
-    </fieldset>
-</form>
+            <div class="editor-label">
+                Название продукта
+            </div>
+            <div class="label">
+                <input asp-for="ItemCode" class="form-control" value="@ViewBag.id" readonly="@(true)" />
+            </div>
+            <div class="editor-field">
+                <input asp-for="Company" class="form-control" value="@ViewBag.comp" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Name" class="form-control" value="@ViewBag.choice" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Description" class="form-control" value="@ViewBag.desc" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Price" class="form-control" value="@ViewBag.pr" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Balance" class="form-control" value="@ViewBag.bal" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Image" class="form-control" value="@ViewBag.img" />
+            </div>
+            <br />
+            <p>
+                <input type="submit" value="Изменить и сохранить" />
+            </p>
+        </fieldset>
+    </form>
+}
+else
+{
+    <h1>Для неавторизованных пользователей доступ закрыт</h1>
+}
 @section scripts{
 
     <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>

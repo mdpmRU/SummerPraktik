@@ -85,15 +85,15 @@ namespace WarehouseProject
             bool change = true;
             int id = Convert.ToInt32(tb_oc.Text);
             Order order = new Order { OrderCode = id,//6
-                ItemCode = 1,
+//                ItemCode = 1,
 //                FirstName = "TestNerabotaet ",
-                LastName = "RAzzzzzz",
-                MiddleName = "Nedrug",
-                Address = "Смоленск Кутузова6",
-                    Quantity = 1,
-                   Email = "dada@gmail.com",
+//                LastName = "RAzzzzzz    ",
+//                MiddleName = "Nedrug",
+//                Address = "Смоленск Кутузова6",
+//                    Quantity = 1,
+//                   Email = "dada@gmail.com",
                    Status = change,
-                  Order_date = "14.08.2021"
+//                  Order_date = "14.08.2021"
             };
             var client = new HttpClient();
             var json_object = JsonConvert.SerializeObject(order);

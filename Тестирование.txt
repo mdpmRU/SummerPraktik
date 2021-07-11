@@ -20,3 +20,26 @@ order_date=14.08.2021
 orderCode=4
 quantity=1
 status=False
+{
+"address" : "Smolensk1313125252525",
+"email" : "dada@gmail.com",
+"firstName" : "ТестируюPUT",
+"itemCode" : "1",
+"lastName" : "Лупа",
+"middleName" : "Дупа",
+"order_date" : "14.08.2021",
+"orderCode" : "4",
+"quantity" : "1",
+"status" : "False"
+}
+{
+"orderCode" : 4,
+"itemCode" : 1,
+"firstName" : "PUT",
+"lastName" : "Лупа",
+"middleName" : "Дупа",
+"address" : "Smolensk13125",
+"quantity" : 1,
+"status" : "False",
+"order_date" : "14.08.2021"
+}

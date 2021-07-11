@@ -1,8 +1,30 @@
-﻿@{
+﻿@model AdminkaMVC.Models.Users
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<h1 class="text-center my-5" style="color:darkslateblue"><i>Авторизация</i></h1>
+<div class="form-horizontal">
+    <form asp-action="Index">
+        <div class="form-group">
+            <label class="control-label">Логин</label>
+            <input asp-for="Login" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label class="control-label">Пароль</label>
+            <input asp-for="Password" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Войти" class="btn btn-primary" />
+        </div>
+        <div class="form-group">
+            <label class="control-label">@ViewBag.errorMessage</label>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">@ViewBag.errorMessage</label>
+        </div>
+
+    </form>
 </div>

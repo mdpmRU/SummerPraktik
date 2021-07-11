@@ -1,39 +1,46 @@
 ﻿@model IEnumerable<AdminkaMVC.Models.Tovar>
 <h2>Фильтрация заказов от Самойловой</h2>
 @* Добавила строки для фильтрации Самойлова *@
-@using (Html.BeginForm("Filter_Order_Quantity", "Main", FormMethod.Get))
+@if (ViewBag.isAdmin == "admin")
 {
-    }
-<table class="table">
-    <tr>
-        <th>
-            Код товара
-        </th>
-        <th>
-            Имя товара
-        </th>
-        <th>
-            Остаток
-        </th>
-        <th>
-            Изображение товара
-        </th>
-        <th></th>
-    </tr>
-    @foreach (var item in Model)
+    @using (Html.BeginForm("Filter_Order_Quantity", "Main", FormMethod.Get))
     {
-<tr>
-    <td>
-        @Html.DisplayFor(modelItem => item.ItemCode)
-    </td>
-    <td>
-        @Html.DisplayFor(modelItem => item.Name)
-    </td>
-    <td>
-        @Html.DisplayFor(modelItem => item.Balance)
-    </td>
-    <td> <img src="~/Images/@item.Image" width="70" height="70"> </td>
-
-</tr>
     }
-</table>
+    <table class="table">
+        <tr>
+            <th>
+                Код товара
+            </th>
+            <th>
+                Имя товара
+            </th>
+            <th>
+                Остаток
+            </th>
+            <th>
+                Изображение товара
+            </th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ItemCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Balance)
+                </td>
+                <td> <img src="~/Images/@item.Image" width="70" height="70"> </td>
+
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h1>Для неавторизованных пользователей доступ закрыт</h1>
+}

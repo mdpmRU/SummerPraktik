@@ -65,7 +65,7 @@ namespace AdminkaMVC.Controllers
 
         }
         //Редактирование и  удаление
-        public ActionResult Edit(int id)
+        public ActionResult Edit(int id)//
         {
             Tovar prod = db.TableTovar.Find(id); // выбранный продукт
             ViewBag.id = prod.ItemCode;
@@ -80,24 +80,34 @@ namespace AdminkaMVC.Controllers
         [HttpPost]
         public ActionResult Edit(Tovar p)
         {
-            if (ModelState.IsValid)
+            ViewBag.isAdmin = HomeController.AdminStatus ? "admin" : "none";
+            try
             {
-                Tovar product = new Tovar
+                if (ModelState.IsValid)
                 {
-                    ItemCode = p.ItemCode,
-                    Company = p.Company,
-                    Name = p.Name,
-                    Description = p.Description,
-                    Price = p.Price,
-                    Balance = p.Balance,
-                    Image = p.Image,
-                };
-                db.Entry(product).State = EntityState.Modified;
-                db.SaveChanges();
-                return RedirectToAction("Select_Product");
+                    Tovar product = new Tovar
+                    {
+                        ItemCode = p.ItemCode,
+                        Company = p.Company,
+                        Name = p.Name,
+                        Description = p.Description,
+                        Price = p.Price,
+                        Balance = p.Balance,
+                        Image = p.Image,
+                    };
+                    db.Entry(product).State = EntityState.Modified;
+                    db.SaveChanges();
+                    return RedirectToAction("Select_Product");
+                }
+                return View();
             }
-            return View();
+            catch
+            {
+                return View();
+            }
         }
+
+
         public ActionResult Minus(Tovar p, int Count)
         {
             if (ModelState.IsValid)
@@ -115,15 +125,30 @@ namespace AdminkaMVC.Controllers
                 db.Entry(product).State = EntityState.Modified;
                 db.SaveChanges();
             }
-            return View();  
+            return View();
         }
         public ActionResult Delete(int id)
         {
+            ViewBag.isAdmin = HomeController.AdminStatus ? "admin" : "none";
+            try
+            {
+                
             Tovar product = db.TableTovar.Find(id); // Нашли выбранный продукт
             db.TableTovar.Remove(product);   //LINQ - удаляем
-            db.SaveChanges();
-            return RedirectToAction("Select_Product");//увидим результат 
-
+                if (ViewBag.isAdmin == "admin")
+                {
+                    db.SaveChanges();
+                }
+                else
+                {
+                    return RedirectToAction("Index", "Home");
+                }
+                return RedirectToAction("Select_Product");//увидим результат 
+            }
+            catch
+            {
+                return View();
+            }
         }
         //
 
@@ -132,25 +157,34 @@ namespace AdminkaMVC.Controllers
         public ActionResult Filter_Order(string Name_Product)
         //Name - при первом запуске пуст, при выборе клиента - имя выбранного продукта 
         {//Формируем список наименований продуктов
-            var NameLst = new List<string>();
-            var query_name = from d in db.TableOrder
-                             orderby d.Order_date
-                             select d.Order_date;
-            NameLst.AddRange(query_name.Distinct());
-            ViewBag.Name_Product = new SelectList(NameLst);
-            // Формируем полный список заказов
-            var query_order = from m in db.TableOrder select m;
-            // При первом пуске выводим все заказы
-            if (string.IsNullOrEmpty(Name_Product))
-                return View(query_order);
-            else //При выборе клиента выводим только заказы на указанный продукт
+            ViewBag.isAdmin = HomeController.AdminStatus ? "admin" : "none";
+            try
             {
-                return View(query_order.Where(x => x.Order_date == Name_Product));
+                var NameLst = new List<string>();
+                var query_name = from d in db.TableOrder
+                                 orderby d.Order_date
+                                 select d.Order_date;
+                NameLst.AddRange(query_name.Distinct());
+                ViewBag.Name_Product = new SelectList(NameLst);
+                // Формируем полный список заказов
+                var query_order = from m in db.TableOrder select m;
+                // При первом пуске выводим все заказы
+                if (string.IsNullOrEmpty(Name_Product))
+                    return View(query_order);
+                else //При выборе клиента выводим только заказы на указанный продукт
+                {
+                    return View(query_order.Where(x => x.Order_date == Name_Product));
+                }
+            }
+            catch
+            {
+                return View();
             }
         }
         public ActionResult Filter_Order_Quantity(int Name_Product)
         //Name - при первом запуске пуст, при выборе клиента - имя выбранного продукта 
         {//Формируем список наименований продуктов
+            ViewBag.isAdmin = HomeController.AdminStatus ? "admin" : "none";
             var NameLst = new List<int>();
             var query_name = from d in db.TableTovar
                              orderby d.Balance
@@ -160,7 +194,7 @@ namespace AdminkaMVC.Controllers
             // Формируем полный список заказов
             var query_order = from m in db.TableTovar select m;
             // При первом пуске выводим все заказы
-                return View(query_order);
+            return View(query_order);
 
         }
 
@@ -193,6 +227,7 @@ namespace AdminkaMVC.Controllers
         [HttpPost]
         public ActionResult Edit_Order(Order p)
         {
+            ViewBag.isAdmin = HomeController.AdminStatus ? "admin" : "none";
             if (ModelState.IsValid)
             {
                 Order orde = new Order

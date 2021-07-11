@@ -1,56 +1,63 @@
 ﻿@model AdminkaMVC.Models.Order
 <h2>Вы выбрали для изменения заказ №  @ViewBag.id</h2>
-<form asp-action="Edit_Order">
-    <fieldset>
-        <legend> Измените любые поля: </legend>
+@if (ViewBag.isAdmin == "admin")
+{
+    <form asp-action="Edit_Order">
+        <fieldset>
+            <legend> Измените любые поля: </legend>
 
-        <div class="editor-label">
-            Номер заказа
-        </div>
-        <div class="label">
-            <input asp-for="OrderCode" class="form-control" value="@ViewBag.id" readonly="@(true)" />
-        </div>
-        <div class="editor-field">
-            <input asp-for="ItemCode" class="form-control" value="@ViewBag.tov" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="FirstName" class="form-control" value="@ViewBag.fname" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="LastName" class="form-control" value="@ViewBag.lname" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="MiddleName" class="form-control" value="@ViewBag.mname" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Address" class="form-control" value="@ViewBag.adr" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Quantity" class="form-control" value="@ViewBag.quant" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Email" class="form-control" value="@ViewBag.email" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Status" class="form-control" value="@ViewBag.status" />
-        </div>
-        <br />
-        <div class="editor-field">
-            <input asp-for="Order_date" class="form-control" value="@ViewBag.date" />
-        </div>
-        <br />
-        <p>
-            <input type="submit" value="Изменить и сохранить" />
-        </p>
-    </fieldset>
-</form>
+            <div class="editor-label">
+                Номер заказа
+            </div>
+            <div class="label">
+                <input asp-for="OrderCode" class="form-control" value="@ViewBag.id" readonly="@(true)" />
+            </div>
+            <div class="editor-field">
+                <input asp-for="ItemCode" class="form-control" value="@ViewBag.tov" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="FirstName" class="form-control" value="@ViewBag.fname" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="LastName" class="form-control" value="@ViewBag.lname" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="MiddleName" class="form-control" value="@ViewBag.mname" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Address" class="form-control" value="@ViewBag.adr" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Quantity" class="form-control" value="@ViewBag.quant" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Email" class="form-control" value="@ViewBag.email" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Status" class="form-control" value="@ViewBag.status" />
+            </div>
+            <br />
+            <div class="editor-field">
+                <input asp-for="Order_date" class="form-control" value="@ViewBag.date" />
+            </div>
+            <br />
+            <p>
+                <input type="submit" value="Изменить и сохранить" />
+            </p>
+        </fieldset>
+    </form>
+}
+else
+{
+    <h1>Для неавторизованных пользователей доступ закрыт</h1>
+}
 @section scripts{
 
     <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>

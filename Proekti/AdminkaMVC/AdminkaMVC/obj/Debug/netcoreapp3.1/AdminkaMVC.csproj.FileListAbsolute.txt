@@ -81,3 +81,9 @@ D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Ma
 D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Main\Filter_Order.cshtml.g.cs
 D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Main\Edit_Order.cshtml.g.cs
 D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Main\Filter_Order_Quantity.cshtml.g.cs
+D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2Praktik\Proekti\AdminkaMVC\AdminkaMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
