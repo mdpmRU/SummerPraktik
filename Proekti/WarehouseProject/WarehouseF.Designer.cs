@@ -44,6 +44,7 @@ namespace WarehouseProject
             this.Btn_Ed = new System.Windows.Forms.Button();
             this.label11 = new System.Windows.Forms.Label();
             this.tb_oc = new System.Windows.Forms.TextBox();
+            this.btnP = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dGVWarehouse)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,11 +63,11 @@ namespace WarehouseProject
             this.Status,
             this.Order_date});
             this.dGVWarehouse.Location = new System.Drawing.Point(9, 188);
-            this.dGVWarehouse.Margin = new System.Windows.Forms.Padding(2);
+            this.dGVWarehouse.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dGVWarehouse.Name = "dGVWarehouse";
             this.dGVWarehouse.RowHeadersWidth = 51;
             this.dGVWarehouse.RowTemplate.Height = 24;
-            this.dGVWarehouse.Size = new System.Drawing.Size(1025, 234);
+            this.dGVWarehouse.Size = new System.Drawing.Size(1250, 234);
             this.dGVWarehouse.TabIndex = 0;
             // 
             // OrderCode
@@ -142,7 +143,7 @@ namespace WarehouseProject
             // btnBD
             // 
             this.btnBD.Location = new System.Drawing.Point(9, 135);
-            this.btnBD.Margin = new System.Windows.Forms.Padding(2);
+            this.btnBD.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnBD.Name = "btnBD";
             this.btnBD.Size = new System.Drawing.Size(118, 41);
             this.btnBD.TabIndex = 1;
@@ -152,7 +153,7 @@ namespace WarehouseProject
             // 
             // Btn_Ed
             // 
-            this.Btn_Ed.Location = new System.Drawing.Point(1024, 51);
+            this.Btn_Ed.Location = new System.Drawing.Point(1156, 50);
             this.Btn_Ed.Name = "Btn_Ed";
             this.Btn_Ed.Size = new System.Drawing.Size(103, 39);
             this.Btn_Ed.TabIndex = 3;
@@ -163,7 +164,7 @@ namespace WarehouseProject
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(1021, 9);
+            this.label11.Location = new System.Drawing.Point(1154, 7);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(106, 13);
             this.label11.TabIndex = 23;
@@ -171,22 +172,34 @@ namespace WarehouseProject
             // 
             // tb_oc
             // 
-            this.tb_oc.Location = new System.Drawing.Point(1024, 25);
+            this.tb_oc.Location = new System.Drawing.Point(1156, 24);
             this.tb_oc.Name = "tb_oc";
             this.tb_oc.Size = new System.Drawing.Size(103, 20);
             this.tb_oc.TabIndex = 22;
+            // 
+            // btnP
+            // 
+            this.btnP.Location = new System.Drawing.Point(140, 146);
+            this.btnP.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnP.Name = "btnP";
+            this.btnP.Size = new System.Drawing.Size(56, 19);
+            this.btnP.TabIndex = 24;
+            this.btnP.Text = "Print";
+            this.btnP.UseVisualStyleBackColor = true;
+            this.btnP.Click += new System.EventHandler(this.btnP_Click);
             // 
             // WarehouseF
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1139, 432);
+            this.ClientSize = new System.Drawing.Size(1278, 432);
+            this.Controls.Add(this.btnP);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.tb_oc);
             this.Controls.Add(this.Btn_Ed);
             this.Controls.Add(this.btnBD);
             this.Controls.Add(this.dGVWarehouse);
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "WarehouseF";
             this.Text = "Приложение для работника склада";
             ((System.ComponentModel.ISupportInitialize)(this.dGVWarehouse)).EndInit();
@@ -212,6 +225,7 @@ namespace WarehouseProject
         private System.Windows.Forms.Button Btn_Ed;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox tb_oc;
+        private System.Windows.Forms.Button btnP;
     }
 }
 

@@ -11,6 +11,8 @@ using System.Net;
 using System.Net.Http;
 using Newtonsoft.Json;
 using Microsoft.AspNetCore.Mvc;
+using System.Drawing.Printing;
+using Word = Microsoft.Office.Interop.Word;
 
 namespace WarehouseProject
 {
@@ -32,11 +34,13 @@ namespace WarehouseProject
         
         private const string APP_PATH = " https://localhost:44359";
         public int id = 0;
+        PrintDocument pd;
+        DataGridView dgw;
+        
         public WarehouseF()
         {
             InitializeComponent();
-
-    }
+        }
 
         private void btnBD_Click(object sender, EventArgs e)//Вывод бд
         {
@@ -74,26 +78,14 @@ namespace WarehouseProject
             }
         }
 
-        private void btnInsert_Click(object sender, EventArgs e)
-        {
-            
 
-        }
 
         private async void Btn_Ed_Click(object sender, EventArgs e)
         {
             bool change = true;
             int id = Convert.ToInt32(tb_oc.Text);
-            Order order = new Order { OrderCode = id,//6
-//                ItemCode = 1,
-//                FirstName = "TestNerabotaet ",
-//                LastName = "RAzzzzzz    ",
-//                MiddleName = "Nedrug",
-//                Address = "Смоленск Кутузова6",
-//                    Quantity = 1,
-//                   Email = "dada@gmail.com",
+            Order order = new Order { OrderCode = id,
                    Status = change,
-//                  Order_date = "14.08.2021"
             };
             var client = new HttpClient();
             var json_object = JsonConvert.SerializeObject(order);
@@ -106,9 +98,12 @@ namespace WarehouseProject
             }
             else { MessageBox.Show("Неудачно"); }
 
+        }      
 
-
-
+        private void btnP_Click(object sender, EventArgs e)
+        {
+            WordOt srv = new WordOt();
+            srv.CreateW(dGVWarehouse);
         }
     }
 }

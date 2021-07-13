@@ -98,3 +98,171 @@ D:\2Praktik\Proekti\WarehouseProject\obj\Debug\WarehouseProject.csproj.CopyCompl
 D:\2Praktik\Proekti\WarehouseProject\obj\Debug\WarehouseProject.exe
 D:\2Praktik\Proekti\WarehouseProject\obj\Debug\WarehouseProject.pdb
 D:\2Praktik\Proekti\WarehouseProject\obj\Debug\WarehouseProject.Edit.resources
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\WarehouseProject.exe.config
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\WarehouseProject.exe
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\WarehouseProject.pdb
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\obj\Debug\WarehouseProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\obj\Debug\WarehouseProject.WarehouseF.resources
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\obj\Debug\WarehouseProject.Properties.Resources.resources
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\obj\Debug\WarehouseProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\obj\Debug\WarehouseProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\obj\Debug\WarehouseProject.csproj.CopyComplete
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\obj\Debug\WarehouseProject.exe
+C:\Users\User\Desktop\Универ\3 курс 2 семестр\Практика\SummerPraktik-master\Proekti\WarehouseProject\obj\Debug\WarehouseProject.pdb
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\WarehouseProject.exe.config
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\WarehouseProject.exe
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\WarehouseProject.pdb
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Options.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Newtonsoft.Json.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Buffers.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.ComponentModel.Annotations.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Memory.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Net.Http.Formatting.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Numerics.Vectors.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Text.Encodings.Web.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Options.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\Newtonsoft.Json.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Buffers.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Memory.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Net.Http.Formatting.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Numerics.Vectors.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Text.Encodings.Web.xml
+D:\2Praktik\Temo\WarehouseProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\2Praktik\Temo\WarehouseProject\obj\Debug\WarehouseProject.csprojAssemblyReference.cache
+D:\2Praktik\Temo\WarehouseProject\obj\Debug\WarehouseProject.WarehouseF.resources
+D:\2Praktik\Temo\WarehouseProject\obj\Debug\WarehouseProject.Properties.Resources.resources
+D:\2Praktik\Temo\WarehouseProject\obj\Debug\WarehouseProject.csproj.GenerateResource.cache
+D:\2Praktik\Temo\WarehouseProject\obj\Debug\WarehouseProject.csproj.CoreCompileInputs.cache
+D:\2Praktik\Temo\WarehouseProject\obj\Debug\WarehouseProject.csproj.CopyComplete
+D:\2Praktik\Temo\WarehouseProject\obj\Debug\WarehouseProject.exe
+D:\2Praktik\Temo\WarehouseProject\obj\Debug\WarehouseProject.pdb

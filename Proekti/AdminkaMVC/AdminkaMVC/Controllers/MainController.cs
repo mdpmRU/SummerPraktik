@@ -67,6 +67,7 @@ namespace AdminkaMVC.Controllers
         //Редактирование и  удаление
         public ActionResult Edit(int id)//
         {
+            ViewBag.isAdmin = HomeController.AdminStatus ? "admin" : "none";
             Tovar prod = db.TableTovar.Find(id); // выбранный продукт
             ViewBag.id = prod.ItemCode;
             ViewBag.comp = prod.Company;
@@ -211,6 +212,7 @@ namespace AdminkaMVC.Controllers
         //редактирование заказа
         public ActionResult Edit_Order(int id)
         {
+            ViewBag.isAdmin = HomeController.AdminStatus ? "admin" : "none";
             Order ord = db.TableOrder.Find(id); // выбранный продукт
             ViewBag.id = ord.OrderCode;
             ViewBag.tov = ord.ItemCode;
